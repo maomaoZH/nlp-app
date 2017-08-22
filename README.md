@@ -1,1 +1,1 @@
-# nlp-rails-app
+# nlp-app
